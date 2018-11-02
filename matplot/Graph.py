@@ -1,6 +1,6 @@
 # import pandas as pd
 
-import math as mt
+import math as math
 from matplotlib import pyplot as plt
 
 x = range(10)
